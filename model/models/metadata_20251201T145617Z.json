@@ -1,0 +1,14 @@
+{
+  "created_at": "20251201T145617Z",
+  "task": "regression",
+  "input_dim": 45,
+  "hidden_dims": [
+    256,
+    128
+  ],
+  "output_dim": 1,
+  "epochs": 15,
+  "batch_size": 256,
+  "lr": 0.001,
+  "data_dir": "model/data"
+}

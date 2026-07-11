@@ -1,0 +1,13 @@
+{
+  "created_at": "20251201T152149Z",
+  "target_transform": {
+    "type": "log"
+  },
+  "hidden_dims": [
+    256,
+    128
+  ],
+  "epochs": 50,
+  "batch_size": 512,
+  "lr": 0.001
+}

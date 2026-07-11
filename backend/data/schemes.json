@@ -1,0 +1,32 @@
+[
+    {
+        "id": "PPF",
+        "tag": "medium",
+        "title": "Public Provident Fund",
+        "description": "Long-term savings scheme with tax benefits."
+    },
+    {
+        "id": "SSA",
+        "tag": "medium",
+        "title": "Sukanya Samriddhi Account",
+        "description": "Savings scheme for a girl child's future."
+    },
+    {
+        "id": "KVP",
+        "tag": "high",
+        "title": "Kisan Vikas Patra",
+        "description": "Certificate scheme that doubles your money in predefined tenure."
+    },
+    {
+        "id": "PLI",
+        "tag": "low",
+        "title": "Postal Life Insurance",
+        "description": "Life insurance scheme for government and PSU employees."
+    },
+    {
+        "id": "RPLI",
+        "tag": "low",
+        "title": "Rural Postal Life Insurance",
+        "description": "Life insurance scheme for rural residents."
+    }
+]

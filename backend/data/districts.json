@@ -1,0 +1,26 @@
+[
+    {
+        "id": "KA-DAKSHINA-KANNADA",
+        "state": "Karnataka",
+        "name": "Dakshina Kannada",
+        "meta": {
+            "literacy_rate": 88.6,
+            "agri_dependence": 29,
+            "bank_branches": 280,
+            "employment_rate": 68,
+            "avg_income": 62000
+        }
+    },
+    {
+        "id": "KA-UDUPI",
+        "state": "Karnataka",
+        "name": "Udupi",
+        "meta": {
+            "literacy_rate": 86.2,
+            "agri_dependence": 31,
+            "bank_branches": 190,
+            "employment_rate": 64,
+            "avg_income": 58000
+        }
+    }
+]
